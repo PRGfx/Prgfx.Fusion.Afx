@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <!--TODO publish dependency -->
+    <ProjectReference Include="../Prgfx.Fusion/Prgfx.Fusion.csproj" />
+  </ItemGroup>
+</Project>
